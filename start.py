@@ -1,5 +1,5 @@
 #modulos
-import main
+#import main
 from tkinter import *
 from tkinter import ttk, Tk, Frame, Menu
 import tkinter as tk
